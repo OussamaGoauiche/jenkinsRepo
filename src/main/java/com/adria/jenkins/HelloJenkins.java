@@ -1,4 +1,4 @@
-package com.adria;
+package com.adria.jenkins;
 
 import org.springframework.stereotype.Component;
 
