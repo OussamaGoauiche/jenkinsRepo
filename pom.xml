@@ -41,7 +41,7 @@
 	</distributionManagement>
 	<build>
 		<plugins>
-			<plugin>
+			<!-- <plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.6.3</version>
@@ -49,7 +49,7 @@
 					<source>17</source>
 					<target>17</target>
 				</configuration>
-			</plugin>
+			</plugin> -->
 		</plugins>
 	</build>
 
